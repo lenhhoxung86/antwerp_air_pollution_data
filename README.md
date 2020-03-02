@@ -25,19 +25,6 @@ Furthermore, the training and testing masks are provided for result reproduction
 The following table presents the result for air quality inference achieved by using variational graph autoencoder (AVGAE) and multi-input variational graph autoencoder (MAVGAE).
 
 <escape>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-vt7q{border-color:#c0c0c0;text-align:right;vertical-align:top}
-.tg .tg-wman{border-color:#c0c0c0;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-ve35{border-color:#c0c0c0;text-align:left;vertical-align:middle}
-.tg .tg-wo29{border-color:#c0c0c0;text-align:left;vertical-align:top}
-.tg .tg-fzdr{border-color:#c0c0c0;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-wo29"></th>
@@ -170,3 +157,24 @@ The following table presents the result for air quality inference achieved by us
   </tr>
 </table>
 </escape>
+
+## Citation
+If you find the dataset useful, please consider citing the following works:
+
+    @inproceedings{do2019matrix,
+      title={Matrix completion with variational graph autoencoders: Application in hyperlocal air quality inference},
+      author={Do, Tien Huu and Nguyen, Duc Minh and Tsiligianni, Evaggelia and Aguirre, Angel Lopez and La Manna, Valerio Panzica and Pasveer, Frank and Philips, Wilfried and Deligiannis, Nikos},
+      booktitle={ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+      pages={7535--7539},
+      year={2019},
+      organization={IEEE}
+    }
+
+    @inproceedings{latre2016city,
+      title={City of things: An integrated and multi-technology testbed for IoT smart city experiments},
+      author={Latre, Steven and Leroux, Philip and Coenen, Tanguy and Braem, Bart and Ballon, Pieter and Demeester, Piet},
+      booktitle={2016 IEEE international smart cities conference (ISC2)},
+      pages={1--8},
+      year={2016},
+      organization={IEEE}
+    }
