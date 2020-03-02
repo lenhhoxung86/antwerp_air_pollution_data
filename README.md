@@ -1,5 +1,5 @@
 # Antwerp Air Pollution Data
-Processed air pollution data (NO2, PM10, PM2.5) collected from Antwerp during April, 2019
+Processed air pollution data (NO<sub>2</sub>, <PM<sub>10</sub>, PM<sub>2.5</sub>) collected from Antwerp during April, 2019
 
 
 ## Overview
@@ -11,5 +11,12 @@ There are four folders, namely SSTR, HST, HTR and HSTR. Each folder has the data
 - HTR: High temporal resolution
 - HSTR: High spatio-temporal resolution
 
-Each folder has data in sparse matrix format (`npz`). In addition, it also contains the geo-coordinates of all the considered locations (`file nodes.txt`). The underlying graph created by the road network of Antwerp is also provided via the corresponding adjacency matrix (`adj.npz`).
+Each folder has air quality measurements in sparse matrix format (e.g., `no2_measurements.npz`). 
+A row in the air quality measurement matrix corresponds to a location. A column in the air quality measurement matrix corresponds to a time instance (e.g., `60` minutes, `30` minutes). 
+In addition, it also contains the geo-coordinates of all the considered locations (`nodes.txt`). 
+A row in the file `nodes.txt` has the following format:
+
+`node_id    longitude   latitude`
+
+The underlying graph created by the road network of Antwerp is also provided via the corresponding adjacency matrix (`adj.npz`).
 Furthermore, the training and testing masks are provided for result reproduction.
