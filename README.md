@@ -24,5 +24,7 @@ Furthermore, the training and testing masks are provided for result reproduction
 ## Air Quality Inference Result
 The following table presents the result for air quality inference achieved by using variational graph autoencoder (AVGAE) and multi-input variational graph autoencoder (MAVGAE).
 
-| - | - | <td colspan=2>NO<sub>2</sub> |  <td colspan=2>PM<sub>2.5</sub>    |  <td colspan=2>PM<sub>10</sub> |
-| Dataset | Method | MAE | RMSE |  MAE |  RMSE | MAE | RMSE |
+    | - | - | <td colspan=2>NO<sub>2</sub> |  <td colspan=2>PM<sub>2.5</sub>    |  <td colspan=2>PM<sub>10</sub> |
+    | --- | --- | --- | --- | --- | --- | --- | --- |
+    | Dataset | Method | MAE | RMSE |  MAE |  RMSE | MAE | RMSE |
+    | SSTR | AVGAE | 6.27 | 9.25 | 2.55 | 3.65 | 5.04 | 6.87 |
