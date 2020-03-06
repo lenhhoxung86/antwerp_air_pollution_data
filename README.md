@@ -29,9 +29,9 @@ The following table presents the result for air quality inference achieved by us
   <tr>
     <th class="tg-wo29"></th>
     <th class="tg-fzdr"></th>
-    <th class="tg-vt7q" colspan="2">NO2</th>
-    <th class="tg-0lax" colspan="2">PM2.5</th>
-    <th class="tg-0lax" colspan="2">PM10</th>
+    <th class="tg-vt7q" colspan="2">NO<sub>2</sub></th>
+    <th class="tg-0lax" colspan="2">PM<sub>2.5</sub></th>
+    <th class="tg-0lax" colspan="2">PM<sub>10</sub></th>
   </tr>
   <tr>
     <td class="tg-wo29">Dataset</td>
