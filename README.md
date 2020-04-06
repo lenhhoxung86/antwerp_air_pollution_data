@@ -3,7 +3,7 @@ Processed air pollution data (NO<sub>2</sub>, PM<sub>10</sub>, PM<sub>2.5</sub>)
 
 
 ## Overview
-This repository contains the Antwerp's air pollution data collected in April, 2019. Three pollutants are considered including NO<sub>2</sub>, PM<sub>10</sub> and PM<sub>2.5</sub>. The measurements provided by this dataset are the concentration of the considered pollutants in terms of *parts per billion (ppb)* (NO<sub>2</sub>) or *milligram per cubic meter (ugm<sup>-3</sup>)* (PM<sub>10</sub> and PM<sub>2.5</sub>).
+This repository contains the Antwerp's air pollution data collected in April, 2019. Three pollutants are considered including NO<sub>2</sub>, PM<sub>10</sub> and PM<sub>2.5</sub>. The measurements provided by this dataset are the concentration of the considered pollutants in terms of *parts per billion (ppb)* (NO<sub>2</sub>) or *microgram per cubic meter (μgm<sup>-3</sup>)* (PM<sub>10</sub> and PM<sub>2.5</sub>).
 
 There are four folders, namely SSTR, HST, HTR and HSTR. Each folder has the data corresponding to a specific setting as follow.
 - SSTR: Standard spatio-temporal resolution
