@@ -162,13 +162,14 @@ The following table presents the result for air quality inference achieved by us
 If you find the dataset useful, please consider citing the following works:
     
     @ARTICLE{9106368,
-    author={T. H. {Do} and E. {Tsiligianni} and X. {Qin} and J. {Hofman} and V. P. {La Manna} and W. {Philips} and N. {Deligiannis}},
-    journal={IEEE Internet of Things Journal}, 
-    title={Graph-Deep-Learning-Based Inference of Fine-Grained Air Quality from Mobile IoT Sensors}, 
-    year={2020},
-    volume={},
-    number={},
-    pages={1-1},}
+      author={T. H. {Do} and E. {Tsiligianni} and X. {Qin} and J. {Hofman} and V. P. {La Manna} and W. {Philips} and N. {Deligiannis}},
+      journal={IEEE Internet of Things Journal}, 
+      title={Graph-Deep-Learning-Based Inference of Fine-Grained Air Quality from Mobile IoT Sensors}, 
+      year={2020},
+      volume={},
+      number={},
+      pages={1-1},
+    }
 
 
     @inproceedings{do2019matrix,
