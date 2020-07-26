@@ -180,12 +180,3 @@ If you find the dataset useful, please consider citing the following works:
       year={2019},
       organization={IEEE}
     }
-
-    @inproceedings{latre2016city,
-      title={City of things: An integrated and multi-technology testbed for IoT smart city experiments},
-      author={Latre, Steven and Leroux, Philip and Coenen, Tanguy and Braem, Bart and Ballon, Pieter and Demeester, Piet},
-      booktitle={2016 IEEE international smart cities conference (ISC2)},
-      pages={1--8},
-      year={2016},
-      organization={IEEE}
-    }
