@@ -1,5 +1,5 @@
 # Antwerp Air Pollution Data
-Processed air pollution data (NO<sub>2</sub>, PM<sub>10</sub>, PM<sub>2.5</sub>) collected from Antwerp during April, 2019
+Processed air pollution data (NO<sub>2</sub>, PM<sub>10</sub>, PM<sub>2.5</sub>) collected from Antwerp in April, 2019
 
 
 ## Overview
